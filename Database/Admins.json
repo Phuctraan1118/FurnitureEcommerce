@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "60929cd56ce96574b4508dbg"
+  },
+  "fullNameCustomer": {
+    "firstName": "Thiên Phúc",
+    "lastName": "Trần"
+  },
+  "dateOfBirth": "11/18/2001",
+  "identityCardNumber": "331858323506",
+  "address": "Bến Lức - Long An",
+  "phoneNumber": "0847577473",
+  "email": "thienphucrt@gmail.com",
+  "loginInformation": {
+    "userName": "admin",
+    "password": "123",
+    "type": "Admin",
+    "roles": [
+      "All"
+    ]
+  },
+  "avatar": "/uploads/avataradmin.jpg"
+}]

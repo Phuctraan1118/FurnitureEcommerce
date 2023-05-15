@@ -1,0 +1,16 @@
+[
+  {
+    "_id": {
+      "$oid": "609142114045f5b26f8c79b0"
+    },
+    "supplierName": "Ikea",
+    "status": true
+  },
+  {
+    "_id": {
+      "$oid": "609142114045f5b26f8c79b1"
+    },
+    "supplierName": "Inax",
+    "status": true
+  }
+]
